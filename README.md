@@ -16,8 +16,11 @@
 <br />
 
 ### About Me 🚀
-🎓 I’m an Open-Source enthusiast & a sophomore pursuing my Bachelors in Computer Engineering. </br>
+🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Engineering. </br>
 👨‍💻  I am passionate about Kubernetes & I enjoy learning new things.
+
+### My Experience 🙌
+- [Kubernetes 1.23 Release Team Shadow](https://github.com/kubernetes/enhancements) - The Shadow system is an apprenticeship model, like those used by union tradespeople. The idea is that Shadows learn by doing, while in the process taking load off the leads and improving the release.
 
 ![Meha's github stats](https://github-readme-stats.vercel.app/api?username=mehabhalodiya&show_icons=true&hide_border=true)
 <br />
