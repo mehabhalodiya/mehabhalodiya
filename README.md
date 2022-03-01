@@ -17,14 +17,23 @@
 
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Engineering. </br>
-👨‍💻  I am passionate about Kubernetes & I enjoy learning new things.
+👨‍💻  I am passionate about Kubernetes & I enjoy learning new things. </br>
+🎯 2022 Goal : Keep learning and keep contributing
 
 ### My Experience 🙌
-- [Kubernetes 1.24 Release Team Shadow](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.24/release-team.md)
-- [Kubernetes 1.23 Release Team Shadow](https://github.com/kubernetes/enhancements) - The Shadow system is an apprenticeship model, like those used by union tradespeople. The idea is that Shadows learn by doing, while in the process taking load off the leads and improving the release.
 
-![Meha's github stats](https://github-readme-stats.vercel.app/api?username=mehabhalodiya&show_icons=true&hide_border=true)
-<br />
+### ➤ [LFX Mentee for Spring'22](https://mentorship.lfx.linuxfoundation.org/project/9e7f18e3-68ee-44f8-ac74-55e802fce8e3): </br>
+<IMG SRC="https://upload.wikimedia.org/wikipedia/commons/e/ed/Linux_Foundation_Logo.svg" ALIGN="left" width="70" height="70" /> LFX mentorship is a program under CNCF which promotes adoption, innovation and sustainability of open source. I am learning and working on [Gateway API](https://github.com/kubernetes-sigs/gateway-api), which is an evolution of Kubernetes Ingress and Service networking that aims to upgrade and improve these APIs. 
+
+
+### ➤ [Kubernetes 1.24 Release Team Shadow](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.24/release-team.md): </br>
+Ongoing Release Cycle!
+
+### ➤ [Kubernetes 1.23 Release Team Shadow](https://github.com/kubernetes/sig-release/blob/master/releases/release-1.23/release-team.md): </br> 
+<IMG SRC="https://raw.githubusercontent.com/kubernetes/sig-release/master/releases/release-1.23/kubernetes-1.23-the-next-frontier-500px.png" ALIGN="left" width="70" height="70" />The Shadow system is an apprenticeship model. Shadows on the release team are equivalent to similar trainee positions on other teams. The idea is that Shadows learn by doing, while in the process of taking a load off the leads and improving the release. Honored to be a part of the team as they received 185 applications for 27 shadows roles.
+
+<br>
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mehabhalodiya.mehabhalodiya)
 
 <!--
